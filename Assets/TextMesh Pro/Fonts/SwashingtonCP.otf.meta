@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5fc8fed341b721c40830a1fe856a37e7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SwashingtonCP
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cb1bbf86ed9a7dd40aef022151669bd4, type: 3}
+  - {fileID: 12800000, guid: 30ac5b41b2aa13444b0071f08f65b25b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
